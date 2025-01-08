@@ -1,0 +1,10 @@
+Modelo,Error medio,Desviación estándar
+Dummy,4.44,0.202
+Molecular weight,4.669,0.252
+Hydrophobicity,4.658,0.246
+Knn,1.857,0.136
+Knn con anova,2.102,0.185
+Decision Tree,2.031,0.184
+Gradient Boosting,1.27,0.104
+RandomForest,1.059,0.103
+RandomForest,1.059,0.103
