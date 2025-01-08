@@ -20,5 +20,11 @@ Data is provided in this repository as well as in the ZENODO repository due to s
 Scripts are store within 3 folders. If _q in the name, then the scripts are meant to be sent to queue
 * Molecular dynamics. This scripts produce the simulations
 * Descriptors. This generate the bonds and the rest of the descriptors
-* Analysis. This stores the creation of the dataframe, the transformation of the HDX data to gibbs, the creation of models.
-  It also stores jupyter notebooks to runned some of the functions as well as to generate the plots
+* Analysis. This stores the creation of the dataframe, the transformation of the HDX data to gibbs, and the .py files with all the funcions
+
+### Results
+In the main 3 jupyter notebooks contain
+* the analysis done for the descriptors (hbonds punctuaction, rmsd... ---- 'preliminar_analysis'
+* the models creation ---- models_final
+* the models analysis ---- analisis_modelos
+  
