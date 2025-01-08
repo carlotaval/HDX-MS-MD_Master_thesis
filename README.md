@@ -15,7 +15,7 @@ Data is provided in this repository as well as in the ZENODO repository due to s
 * gibbs_data includes the files with the Gibbs energy
 * Models includes the models and the training input except for the dataframe with the original dataframe and the training features.
   This due to their size have been including in the ZENODO repository where the bonds and descriptors for each file have been stored
-  ()
+  (https://zenodo.org/records/14618543?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQxNTYxMTdhLTNlNzItNDc2Ni1iODQxLWM3ZWVjY2E4N2Y5OSIsImRhdGEiOnt9LCJyYW5kb20iOiIyZDFiY2Y0ZmViMmYyNTQ3NzE2M2EwN2Q1OTZhMjcyZiJ9.Y6AuC2Fw3ppJt06glIdnUYDg7KWeI64w1XhxlgXFqtgqyU3EUUDsOUcU_HT1Ih-1k9WryoPgqXf7NqHZUG-trw)
 
 ### Scripts
 Scripts are store within 3 folders. If _q in the name, then the scripts are meant to be sent to queue
