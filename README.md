@@ -10,6 +10,7 @@ To clone this environments .yml files are provided
 
 ### Data
 Data is provided in this repository as well as in the ZENODO repository due to space limits within github
+* params includes the parameters files needed within GROMACS to generate the dynamics
 * HDX_deuterium_data includes was installed locally, for the rest of programs
 * gibbs_data includes the files with the Gibbs energy
 * Models includes the models and the training input except for the dataframe with the original dataframe and the training features.
